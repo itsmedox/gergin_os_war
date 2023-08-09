@@ -9,162 +9,282 @@
   "applovin_interstitial_id": "xxxxxx",
   "applovin_native_id": "xxxxxx",
   "applovin_rewarded_id": "xxxxxx",
-  "is_max": true,
+  "max": false,
   
   "unity_banner_id": "xxxx",
   "unity_interstitial_id": "xxxx",
   "unity_rewarded_id": "xxxx",
   "unity_app_id": "xxxx",
-  "is_unity_test_mode": true,
+  "is_unity_test_mode": false,
   
-  "admob_banner": "xxxx",
-  "admob_interstitial": "xxxx",
-  "admob_native": "xxxx",
-  "admob_rewarded": "xxxx",
+  "admob_banner": "",
+  "admob_interstitial": "",
+  "admob_native": "",
+  "admob_rewarded": "",
+  "admob_open_app": "",
   
-  "facebook_banner": "xxxx",
-  "facebook_interstitial": "xxxx",
-  "facebook_native": "xxxx",
-  "facebook_rewarded": "xxxx",
+  "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "facebook_interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "facebook_native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "facebook_rewarded": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID",
   
   "startapp_id": "xxxxxxxx",
+  
+  
+  "Ads Explanation": " custom | applovin | admob | facebook | ironsource | unity | startapp ",
 
-  "Interstitial": "xxxxxxxx",
-  "Banner": "xxxxxxxx",
-  "Native": "xxxxxxxx",
-  "Rewarded": "xxxxxxxx",
+  "Interstitial": "",
+  "Banner": "",
+  "Native": "",
+  "Rewarded": "",
   
   
-  "main_inter": true,
-  
-  "show_force_rate": true,
+  "onesignal_id": "xxxxxxx",
   
   
-  "show_slider": false,
-
-  "show_activities": true,
+ 
+  "show_tips": true,
+  "show_fake_call": false,
   
-  "slider_in_details": true,
+  "show_videos_btn": false,
+  
+  "show_quiz": false,
+  "show_spin": true,
+  "show_puzzle": false,
+  
+  
+  
+  "fore_user_to_collect_coins_to_start": false,
+  
+  "fore_user_to_rate_app": false,
+  
+  "rating_exit_popup": true,
   
   
   "clicks_to_show_inter": 2,
   "native_rate": 2,
   
-  
-  "show_rate_us_in_list": true,
-  
-  
-  "show_cpa": true,
-  "cpa_image": "https://cdn.ramseysolutions.net/media/blog/taxes/business-taxes/what-does-a-cpa-do.jpg",
-  "cpa_url": "https://www.ramseysolutions.com/taxes/what-does-a-cpa-do",
+  "show_cpa": false,
+  "cpa_image": "https://wordpresscdn.winzogames.com/prod/blog/wp-content/uploads/2022/01/31105343/Freefire-diamonds.jpg",
+  "cpa_url": "https://fr.uoldown.com/android/free-fire-hack-diamond-and-coins/download",
   "cpa_button_text": "Get It Now!",
   
-  "show_rating_exit_popup": true,
   
-  "onesignal_id": "xxxxxxx",
   
   "is_app_suspended": false,
   "suspended_title": "A new update for this app is available.",
   "suspended_message": "Update this app because this version has some issues.",
   "suspended_URL": "xxxx",
-  
-  "show_app_1": true,
+
+
+  "show_app_1": false,
   "app_icon_1": "https://play-lh.googleusercontent.com/NdUWMwj7j8PED3UVxRX_2Qo9qeDD6SNooMFTLJCCHAO0YnsyKWkgAzfHN1VZARaEBdMO=s512-rw",
   "app_title_1": "Parchisi STAR Online",
   "app_desc_1": "Parchisi STAR is an online multiplayer game.",
   "app_url_1": "com.superking.parchisi.star",
   
-  "show_app_2": true,
+  "show_app_2": false,
   "app_icon_2": "https://play-lh.googleusercontent.com/bPz1guJ6FHF3oIOEy3KqwpaDDKO-hLRaZoyzmM8bLFLN8fWm6L0_EuUnkwv9iqPo3Ag=s512-rw",
   "app_title_2": "8 Ball Pool",
   "app_desc_2": "8 Ball Pool is your online challenge in 3D!",
   "app_url_2": "com.miniclip.eightballpool",
   
-  "show_app_3": true,
+  "show_app_3": false,
   "app_icon_3": "https://play-lh.googleusercontent.com/hO7716hh7NCcFauJedDclX-R3Zh9JmbSs8AUU6TP2edGVILlZM7gmyt_8WPCZELiPQA=s512-rw",
   "app_title_3": "Plants vs. Zombies™",
   "app_desc_3": "Soil your plants as a mob of fun-loving zombies",
   "app_url_3": "com.ea.game.pvzfree_row",
-  
-  "show_app_4": true,
-  "app_icon_4": "https://images.ctfassets.net/hrltx12pl8hq/3j5RylRv1ZdswxcBaMi0y7/b84fa97296bd2350db6ea194c0dce7db/Music_Icon.jpg",
-  "app_title_4": "App Name",
-  "app_desc_4": "The standard chunk of Lorem Ipsum used since the 1500s",
-  "app_url_4": "com.ea.game.pvzfree_row",
 
 
   "guides": [
 	{
-	 "image": "https://images.ctfassets.net/hrltx12pl8hq/3j5RylRv1ZdswxcBaMi0y7/b84fa97296bd2350db6ea194c0dce7db/Music_Icon.jpg",
-	 "title": "title 1",
-	 "text": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
-	 "text_two": "Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+	 "image": "https://iili.io/HttfMdX.png",
+	 "title": "groningen",
+	 "text": "the University Medical Centre Groningen (UMCG). Groningen also hosts knowledge hubs like the Energy Academy Europe and the Global Centre on Climate Adaptation",
+	 "text_two": "This vibrant student city is also the region’s economic driving force. Our economy, mostly in services, is booming",
 
-	 "showInSlider": true,
-	 
 	 "isLocked": false,
-	 "id": 1
+	 "id": 1,
+	 
+	 "likes": 2648,
+	 
+	 "isWebUI": false,
+	 "web_url": "xxxx",
+	 "isWeb": false
 
 	},
 	{
-	 "image": "https://www.eusemfronteiras.com.br/wp-content/uploads/2020/09/shutterstock_1890767737.jpg",
-	 "title": "title 2",
-	 "text": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
-	 "text_two": "Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+	 "image": "https://iili.io/HttfMdX.png",
+	 "title": "groningen",
+	 "text": "Unrivalled in its openness to the world, Groningen is home to three leading institutes of learning and research",
+	 "text_two": "University of Groningen (RuG), the Hanze University of Applied Sciences (Hanze) and one of the largest teaching hospitals in Europe",
 
-	 "showInSlider": false,
+	 "isLocked": false,
+	 "id": 2,
 	 
+	 "likes": 5067,
+	 
+	 "isWebUI": false,
+	 "web_url": "",
+	 "isWeb": false
+	 
+	},
+	{
+	 "image": "https://iili.io/HttfMdX.png",
+	 "title": "groningen",
+	 "text": "The city of Groningen has been known as a centre for talent, free thinking and new ideas for many centuries, having been the economic",
+	 "text_two": "academic and political powerhouse of the Northern Netherlands since the 13th Century ",
+
 	 "isLocked": true,
-	 "id": 2
+	 "id": 3,
+	 
+	 "likes": 4016,
+
+	 "isWebUI": false,
+	 "web_url": "xxxx",
+	 "isWeb": false
 	 
 	},
 	{
-	 "image": "https://www.eusemfronteiras.com.br/wp-content/uploads/2020/09/shutterstock_1890767731-810x456.jpg",
-	 "title": "title 3",
-	 "text": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
-	 "text_two": "Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+	"image": "https://iili.io/HttfMdX.png",
+	 "title": "groningen",
+	 "text": "Groningen has a young, dynamic and highly educated population. Its 230,000 inhabitants enjoy a high quality of life. Groningen is a city with a superdiverse mix of people",
+	 "text_two": "with many young and bright people from other parts of the Netherlands, or indeed of the world, the city is home to over 144 nationalities",
 
-	 "showInSlider": true,
-	 
 	 "isLocked": false,
-	 "id": 3
+	 "id": 4,
+	 
+	 "likes": 3271,
 
+	 "isWebUI": false,
+	 "web_url": "xxxx",
+	 "isWeb": false
+	 
 	},
 	{
-	"image": "https://www.eusemfronteiras.com.br/wp-content/uploads/2020/09/shutterstock_1890767734-810x456.jpg",
-	 "title": "title 4",
-	 "text": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
-	 "text_two": "Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+	"image": "https://iili.io/HttfMdX.png",
+	 "title": "groningen",
+	 "text": "t is one of the top 5 cities in Europe where the quality of life, education, social care and healthcare are well taken care of. Groningen is also known for its progressive city policy, no-nonsense character, ",
+	 "text_two": " non-stop nightlife and the huge number of bicycles; over two-thirds of travel in Groningen are done by bike",
 
-	 "showInSlider": false,
+	 "isLocked": true,
+	 "id": 5,
 	 
-	 "isLocked": false,
-	 "id": 4
+	 "likes": 5300,
 
+	 "isWebUI": false,
+	 "web_url": "xxxx",
+	 "isWeb": false
+	 
 	},
 	{
-	"image": "https://www.eusemfronteiras.com.br/wp-content/uploads/2020/09/shutterstock_1890767458-810x456.jpg",
-	 "title": "title 5",
-	 "text": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
-	 "text_two": "Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+	"image": "https://iili.io/HttfMdX.png",
+	 "title": "groningen",
+	 "text": " Vigorous, authentic and unspoiled. This is Groningen: a city bursting with energy. Surrounded by countryside where the silence embraces you like an old friend",
+	 "text_two": "Groningen, the gem of the Northern Netherlands, is a unique city with a fast growing start-up culture, award-winning scientists and the cleanest air in the country.",
 
-	 "showInSlider": true,
-	 
 	 "isLocked": false,
-	 "id": 5
+	 "id": 6,
+	 
+	 "likes": 1308,
 
+	 "isWebUI": false,
+	 "web_url": "xxxx",
+	 "isWeb": false
+	 
+	}
+	] ,
+	
+	"quizes": [
+	{
+		
+	 "question": "how many pyramides are in egypte?",
+      
+	 "answer_1": "Three pyramides",
+	 "answer_2": "four pyramides",
+	 "answer_3": "five pyramides",
+	 
+	 "correct": 1
+      
 	},
 	{
-	"image": "https://www.eusemfronteiras.com.br/wp-content/uploads/2020/09/shutterstock_1890767446.jpg",
-	 "title": "title 6",
-	 "text": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
-	 "text_two": "Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
-
-	 "showInSlider": true,
+	  
+	 "question": "What is Choo Choo Charles?",
+      
+	 "answer_1": "Spider Train",
+	 "answer_2": "Spider Man",
+	 "answer_3": "Spider Car",
 	 
-	 "isLocked": false,
-	 "id": 6
 
+	 "correct": 1
+      
+	},
+	{
+	  
+	 "question": "What is 1X Bet",
+      
+	 "answer_1": "A dating app",
+	 "answer_2": "A betting app",
+	 "answer_3": "A cooking app",
+	 
+
+	 "correct": 2
+      
+	},
+	{
+	  
+	 "question": "Which one doesn't belong to Poppy Playtime?",
+      
+	 "answer_1": "Huggy Wuggy",
+	 "answer_2": "Kissy Missy",
+	 "answer_3": "The Man From The Window",
+	 
+
+	 "correct": 3
+      
+	},
+	{
+	  
+	 "question": "How many USLs does Real Madrid have?",
+      
+	 "answer_1": "13 Champions Leage",
+	 "answer_2": "12 Champions Leage",
+	 "answer_3": "14 Champions Leage",
+	 
+
+	 "correct": 3
+      
+	},
+	{
+	 
+	 "question": "Which one is a programming language?",
+     
+	 "answer_1": "English",
+	 "answer_2": "Kotlin",
+	 "answer_3": "Arabic",
+	 
+	 "correct": 2
+      
+	}
+  ]  ,
+	
+	
+	"videos": [
+	{
+	 "youtube_video_id": "H-S_bT_r9Wg",
+	 "image_cover": "https://i.ytimg.com/vi/LRMTr2VZcr8/maxresdefault.jpg"
+	},
+	{
+	 "youtube_video_id": "QvKNr5PoYxw",
+	 "image_cover": "https://p325k7wa.twic.pics/high/paw-patrol/paw-patrol-on-the-roll/00-page-setup/paw-patrol-otr_game-thumbnail.jpg?twic=v1/resize=760/step=10/quality=80"
+	},
+	{
+	 "youtube_video_id": "f3KYZTgw-HA",
+	 "image_cover": "https://tvline.com/wp-content/uploads/2020/07/paw-patrol-not-cancelled.jpg?w=620&h=420&crop=1"
+	},
+	{
+	 "youtube_video_id": "_odwT14rPnQ",
+	 "image_cover": "https://deadline.com/wp-content/uploads/2020/02/paw-patrol-2.png?w=1024"
 	}
   ]  
 }
